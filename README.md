@@ -1,4 +1,4 @@
-### Hello, world! Eu sou Beatriz 🖐️
+### Hello, world! Eu sou Beatriz 🖐
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriz.devrabelo@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-rabel0/)
@@ -19,6 +19,12 @@
 ### Linguagens e Tecnologias que utilizo:
 
 <div style="display: inline_block"><br>
+  <img align="right" alt="Beatriz Gif" height="170" width="170" src="https://cdn.discordapp.com/attachments/891111809036202084/901703183003439124/Webp.net-gifmaker.gif">
+</div>
+
+   ##
+
+<div style="display: inline_block"><br>
   <img align="center" alt="Android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
   <img align="center" alt="Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -27,6 +33,7 @@
   <img align="center" alt="TomCat" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="Gradle" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
 </div>
+
 
 
 
