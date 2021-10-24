@@ -14,7 +14,7 @@
 
 // 📥 Entre em contato comigo pelo: beatriz.devrabelo@gmail.com ou contato.biapbr@gmail.com
 
-![Beatriz GitHub Stats](https://github-readme-stats.vercel.app/api?username=devrabello&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
+![Beatriz GitHub Stats](https://github-readme-stats.vercel.app/api?username=devb3atriz&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
 
 ### Linguagens e Tecnologias que utilizo:
 
