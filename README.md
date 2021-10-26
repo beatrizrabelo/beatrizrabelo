@@ -10,7 +10,7 @@
 
 // ☕ Me especializando em **Java**
 
-// 📱 Faço aplicações para dispositivos **Web e Mobile**
+// 📱 Faço API's para dispositivos **Web e Mobile**
 
 // 📥 Entre em contato comigo pelo: beatriz.devrabelo@gmail.com ou contato.biapbr@gmail.com
 
