@@ -18,10 +18,6 @@
 
 ### Linguagens e Tecnologias que utilizo:
 
-<div style="display: inline_block"><br>
-  <img align="right" alt="Beatriz Gif" height="170" width="170" src="https://cdn.discordapp.com/attachments/891111809036202084/901703183003439124/Webp.net-gifmaker.gif">
-</div>
-
    ##
 <div style="display: inline_block"><br>
   <img align="center" alt="Android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
