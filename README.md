@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-rabel0/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatrizrabelo)
 
-// 🤓 Estou concluindo o curso de **Tecnologia da Informação** no IFBA
+// 🤓 Formada em **Tecnologia da Informação** no IFBA
 
 // ✨ Apaixonada por todo esse mundo da tecnologia!
 
