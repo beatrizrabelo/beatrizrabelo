@@ -1,36 +1,28 @@
-### Hello, world! Eu sou Beatriz 🖐
+# Olá Mundo 👋, Eu sou Beatriz :) 
+- 😊 Sou formada em **Tecnologia da Informação** pelo Instituto Federal da Bahia;
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beatriz.devrabelo@gmail.com)
+- 🏫 Graduando em **Análise e Desenvolvimento de Sistemas**;
+
+- 😍 Apaixonada por todo esse mundo da tecnologia!
+
+- ❤️ Meu coração bate mais forte quando se trata de **desenvolvimento back-end**, mas estou mergulhando de cabeça no universo do **front-end**, aprendendo **HTML5 e CSS3** para aprimorar ainda mais minhas habilidades;
+
+- 💻 Com **pensamento computacional** sempre aplicando principios de **códidos limpos** e **eficientes**;
+
+# Linguagens e Tecnologias que utilizo:
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![SQL SERVER](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SPRING BOOT](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![GIT](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+
+![Beatriz GitHub](https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizrabelo&show_icons=true&hide_progress=true)
+
+
+📪 Se você quer saber mais sobre mim, discutir um projeto ou simplesmente trocar ideias, **entre em contato**! Estou ansiosa para embarcar nessa jornada ao seu lado 😃.
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato.biapbr@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-rabel0/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beatrizrabelo)
-
-// 🤓 Formada em **Tecnologia da Informação** no IFBA
-
-// ✨ Apaixonada por todo esse mundo da tecnologia!
-
-// ☕ Me especializando em **Java**
-
-// 📱 Faço API's para dispositivos **Web e Mobile**
-
-// 📥 Entre em contato comigo pelo: beatriz.devrabelo@gmail.com ou contato.biapbr@gmail.com
-
-![Beatriz GitHub Stats](https://github-readme-stats.vercel.app/api?username=beatrizrabelo&show_icons=true&theme=vue&include_all_commits=true&count_private=true)
-
-### Linguagens e Tecnologias que utilizo:
-
-   ##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Android" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img align="center" alt="Spring" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="MySQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Java" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="PostgreSQL" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="TomCat" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg">
-  <img align="center" alt="Gradle" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg">
-</div>
-
-  ##
-###### <p align=center> Com capacitação e experiência profissional, desenvolvo aplicações JavaFX e Java Web, Desenvolvimento Android e todos os processos da Modelagem de Banco de Dados.
- 
-
-
