@@ -7,7 +7,7 @@
 
 - ❤️ Meu coração bate mais forte quando se trata de **desenvolvimento back-end**, mas estou mergulhando de cabeça no universo do **front-end**, aprendendo **HTML5 e CSS3** para aprimorar ainda mais minhas habilidades;
 
-- 💻 Com **pensamento computacional** sempre aplicando principios de **códidos limpos** e **eficientes**;
+- 💻 Com **pensamento computacional** sempre aplicando principios de **códidos limpos** e **eficientes**.
 
 # Linguagens e Tecnologias que utilizo:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
